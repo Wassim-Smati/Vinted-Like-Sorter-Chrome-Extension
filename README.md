@@ -1,4 +1,4 @@
-# Vinted-Like-Sorter-Chrome-Extension <img width="16" height="16" alt="ChatGPT Image 20 août 2025, 13_33_14" src="https://github.com/user-attachments/assets/eb027796-f4db-4ebf-bd18-24930edf61b0" />
+#  <img width="64" height="64" alt="ChatGPT Image 20 août 2025, 13_33_14" src="https://github.com/user-attachments/assets/eb027796-f4db-4ebf-bd18-24930edf61b0" /> Vinted-Like-Sorter-Chrome-Extension
 
 
 
