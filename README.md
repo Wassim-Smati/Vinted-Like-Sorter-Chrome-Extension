@@ -1,6 +1,6 @@
 # Vinted-Like-Sorter-Chrome-Extension
 
-<img width="1024" height="1024" alt="ChatGPT Image 20 août 2025, 13_33_14" src="https://github.com/user-attachments/assets/eb027796-f4db-4ebf-bd18-24930edf61b0" />
+<img width="512" height="512" alt="ChatGPT Image 20 août 2025, 13_33_14" src="https://github.com/user-attachments/assets/eb027796-f4db-4ebf-bd18-24930edf61b0" />
 
 Want to find the best deals on Vinted without scrolling for hours?
 Vinted Like Sorter lets you sort items on any search page by the number of likes — all in just one click.
